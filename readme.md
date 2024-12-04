@@ -4,6 +4,38 @@ My solutions to the [Advent of Code](https://adventofcode.com).
 
 I am using go.
 
+# Progress
+
+:white_check_mark:
+:white_check_mark:
+:white_check_mark:
+:white_check_mark:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+:black_large_square:
+
+- :black_large_square: - not done
+- :black_square_button: - one star
+- :white_check_mark: - two stars
+
 # Run
 
 Firstly for day you want to run create files `example` and `input`.
