@@ -13,7 +13,7 @@ I am using go.
 :white_check_mark:
 :white_check_mark:
 :white_check_mark:
-:black_large_square:
+:white_check_mark:
 :black_large_square:
 :black_large_square:
 :black_large_square:
